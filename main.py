@@ -3,4 +3,4 @@
 # Hadia Alvi
 # 22-NTU-CS-1343
 
-#IoT Lab 1
+#Iot Lab 1
