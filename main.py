@@ -3,4 +3,4 @@
 # Hadia Alvi
 # 22-NTU-CS-1343
 
-#gdfhfdhdjdf
+#sensor reading done
